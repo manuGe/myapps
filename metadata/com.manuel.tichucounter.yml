@@ -1,12 +1,15 @@
 AuthorName: 'Manuel Geissbühler'
 Categories:
 - Games
-CurrentVersionCode: '2147483647'
-UpdateCheckMode: 'RepoManifest'
-AutoUpdateMode: Version
 IssueTracker:
 Name: 'Tichu Counter'
-SourceCode: 'https://github.com/manuGe/TichuCounter'
+RepoType: git
+Repo: https://github.com/manuGe/TichuCounter
+SourceCode: https://github.com/manuGe/TichuCounter
 Summary: 'Einfach und schnell Punkte erfassen'
-WebSite: ''
 Description: ''
+
+AutoUpdateMode: Version V%v
+UpdateCheckMode: Tags
+CurrentVersion: 1.0
+CurrentVersionCode: 1
