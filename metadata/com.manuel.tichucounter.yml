@@ -8,7 +8,5 @@ Name: Tichu Counter
 AutoName: Tichu Counter
 Summary: Einfach und schnell Punkte erfassen
 
-AutoUpdateMode: Version v%v
-UpdateCheckMode: RepoManifest
-CurrentVersion: 1.0
-CurrentVersionCode: 1
+CurrentVersion: 1.01
+CurrentVersionCode: 2
