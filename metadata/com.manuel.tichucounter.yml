@@ -3,7 +3,7 @@ Categories:
 - Games
 CurrentVersionCode: '2147483647'
 UpdateCheckMode: 'RepoManifest'
-AutoUpdateMode: 'Version'
+AutoUpdateMode: Version
 IssueTracker:
 Name: 'Tichu Counter'
 SourceCode: 'https://github.com/manuGe/TichuCounter'
