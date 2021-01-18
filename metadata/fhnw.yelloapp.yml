@@ -1,9 +1,10 @@
-AuthorName: ''
+AuthorName: 'Manuel Geissbühler'
 Categories:
-- myapps
+- Games
 CurrentVersionCode: 2147483647
 IssueTracker: ''
-Name: YelloApp
-SourceCode: ''
-Summary: ''
+Name: Tichu Counter
+SourceCode: 'https://github.com/manuGe/TichuCounter'
+Summary: 'Einfach und schnell Punkte erfassen'
 WebSite: ''
+Description: ''
