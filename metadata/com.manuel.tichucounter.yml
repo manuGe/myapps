@@ -14,5 +14,5 @@ Repo: https://github.com/manuGe/TichuCounter
 
 AutoUpdateMode: Version v%v
 UpdateCheckMode: Tags
-CurrentVersion: '1.01'
-CurrentVersionCode: 1
+CurrentVersion: 1.0.1
+CurrentVersionCode: 2
