@@ -9,10 +9,10 @@ Name: Tichu Counter
 AutoName: Tichu Counter
 Summary: Einfach und schnell Punkte erfassen
 
-RepoType: git
-Repo: https://github.com/manuGe/TichuCounter
+# RepoType: git
+# Repo: https://github.com/manuGe/TichuCounter
 
-AutoUpdateMode: Version v%v
-UpdateCheckMode: Tags
+# AutoUpdateMode: Version v%v
+# UpdateCheckMode: Tags
 CurrentVersion: 1.0.1
 CurrentVersionCode: 2
