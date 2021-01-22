@@ -8,5 +8,8 @@ Name: Tichu Counter
 AutoName: Tichu Counter
 Summary: Einfach und schnell Punkte erfassen
 
+# RepoType: git
+# Repo: https://github.com/manuGe/TichuCounter
+
 CurrentVersion: 1.01
 CurrentVersionCode: 1
